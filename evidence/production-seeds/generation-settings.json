@@ -1,0 +1,109 @@
+{
+  "model": "wan3.0-video",
+  "story": "Two Months in the Country",
+  "scene": "Chloe joins Laura in the fields",
+  "samples": [
+    {
+      "sample": 1,
+      "seed": 132,
+      "file": "sample-1.mp4",
+      "duration_seconds": 25.030998,
+      "sha256": "ca5c30c1ff7e1695519925a8d3ad0b335f2176ff29ab8567555c8ad7a645e5b0"
+    },
+    {
+      "sample": 2,
+      "seed": 263,
+      "file": "sample-2.mp4",
+      "duration_seconds": 25.030998,
+      "sha256": "170f41ee8642e684a7f31cb6ef1c8155509c824f547725ae0dcd13e0197c8e23"
+    },
+    {
+      "sample": 3,
+      "seed": 394,
+      "file": "sample-3.mp4",
+      "duration_seconds": 25.030998,
+      "sha256": "39c51013555c34e05e739995c51085e3ed006916a4be8584c4ab404f3750ee18"
+    }
+  ],
+  "references": [
+    {
+      "index": 1,
+      "type": "reference_image",
+      "name": "Chloe: opening appearance",
+      "file": "reference-1.jpg",
+      "sha256": "f066f3a0fd303fc2bc10a1494e31218525da55da9ae22d8ce221fea709efb6e1"
+    },
+    {
+      "index": 2,
+      "type": "reference_image",
+      "name": "Chloe: work clothes",
+      "file": "reference-2.jpg",
+      "sha256": "26b897d20d509d6c393c22bac2231a84e224d04aede3517a31c8ee76c2250148"
+    },
+    {
+      "index": 3,
+      "type": "reference_image",
+      "name": "Field reference",
+      "file": "reference-3.jpg",
+      "sha256": "96dc13b73b2fcdb714b240e5e2bc4c97e9783cec7c628959fee5f1749581b720"
+    },
+    {
+      "index": 4,
+      "type": "reference_image",
+      "name": "Laura: opening appearance",
+      "file": "reference-4.jpg",
+      "sha256": "b86a2d9a0eea7c62becca1c6f4a54b595ec4a8595f1172315c7798350a1baf83"
+    },
+    {
+      "index": 5,
+      "type": "reference_image",
+      "name": "Laura: work clothes",
+      "file": "reference-5.jpg",
+      "sha256": "ba939464c70cbe5a62338e718ad292310c6f57265773fb2c12d9ee2c4f279ec8"
+    },
+    {
+      "index": 6,
+      "type": "reference_image",
+      "name": "Spatial opening layout",
+      "file": "reference-6.png",
+      "sha256": "febfbf18532af0903f0e73cd2a3ec4e6595ba3bf57cc838f74b33c706bc257a1"
+    },
+    {
+      "index": 7,
+      "type": "reference_audio",
+      "name": "Laura: voice reference",
+      "file": "reference-7.wav",
+      "sha256": "5d20c7e73270f609d59b7d24e2656a893b2c6165a31dc8f89c604dd8bfe53e6e"
+    },
+    {
+      "index": 8,
+      "type": "reference_audio",
+      "name": "Chloe: voice reference",
+      "file": "reference-8.wav",
+      "sha256": "59ca9e71057a223af07f4b2b01bef62892b0309e832fef3bee8eb78214bfc97e"
+    }
+  ],
+  "source": "The archived Wan request used for the field-work segment in Section 3.",
+  "checks_fixed_before_generation": [
+    "Laura suggests rest; Chloe insists on joining.",
+    "Chloe and Laura weed the field together.",
+    "Chloe reacts to an insect.",
+    "Chloe resumes work instead of leaving.",
+    "The two identities and work clothing remain consistent."
+  ],
+  "settings": {
+    "resolution": "720P",
+    "ratio": "16:9",
+    "duration": 25,
+    "audio": true,
+    "watermark": false,
+    "prompt_extend": true
+  },
+  "same_input_except_seed": true,
+  "original_prompt_unchanged": true,
+  "all_outputs_shown": true,
+  "original_generation_prompt_sha256": "d359586cc5f14cf6171ac41fcdbcbb2390060803bc1b30450e6711a062ffc5f1",
+  "generation_prompt_language": "Chinese and English",
+  "prompt_translation_en": "B04 Episode 2. 25 seconds. 16:9. Live-action short drama with continuous multi-shot storytelling.\n\nREFERENCE IMAGES\n- Image 1: opening appearance, A city girl; clothing: casual city clothes.\n- Image 2: target ending appearance of the same person, effective only after the action is completed; A city girl; clothing: work clothes.\n- Image 3: agricultural fields under the harsh sun.\n- Image 4: opening appearance, A kind; clothing: simple rural clothes.\n- Image 5: target ending appearance of the same person, effective only after the action is completed; A kind; clothing: work clothes.\nThe first five approved asset images are multi-view sheets of individual assets. They constrain character appearance, clothing, prop structure, and scene layout. Do not render sheet borders, cell labels, white backgrounds, or repeated people in the video.\n\nSource-grounded cast and location continuity: preserve the source characters, approved identities, language, stated location and period. Keep architecture, clothing, signage and props consistent with that setting. Do not infer ethnicity from the language or replace the source setting; avoid stereotypes.\n\nSTORY CONTINUITY\n- Previous event: Chloe admitted that she has always missed the mother she has never met.\n- Opening action: Laura is packing tools for the fields the next morning.\n- Events in this segment: early the next morning, Laura prepares for the fields and tells Chloe to rest. Chloe insists on coming. In the fields, Chloe copies Laura pulling weeds, screams at an insect, but bravely stays instead of running away.\n- Ending state: Chloe does not run away; she chooses to remain in the field.\n- Connection to the next segment: Chloe stays in the field despite the bug.\n\nSHOTS, PERFORMANCE, AND ACTION\nThe video contains exactly 5 shots.\n\nShot 1 [0.0-4.5 seconds]: At the edge of a field in the early morning, soft, cool light falls on the soil and vegetable rows, with a light mist in the air. A kind wears plain, practical farm work clothes and packs tools beside a muddy path. A city girl stands nearby, already wearing durable dark trousers and a work shirt with rolled-up sleeves, with slightly muddy boots. A kind stops packing, turns to A city girl with a caring expression, and speaks gently at [2.0-4.0 seconds], following the voice table below. Emotion: onscreen, caring.\n\nShot 2 [4.5-8.0 seconds]: A frontal medium shot frames A city girl standing upright in work clothes. She meets A kind's gaze with determination and stubborn resolve. At [5.0-7.0 seconds], she answers firmly and loudly, following the voice table below. Emotion: onscreen, stubborn and insistent. She then tightens her rolled-up sleeves and steps directly into the soil between the vegetable rows, showing through her actions that she intends to accompany A kind and share the work.\n\nShot 3 [8.0-14.5 seconds]: A tracking medium shot follows the vegetable rows as the morning sun rises. A city girl, wearing work trousers, crouches awkwardly beside a soil ridge. She puts both hands into the damp, soft earth and tries to copy the experienced A kind working beside her, pulling stubborn weeds out by hand. Her hands become covered in thick mud, and fine beads of sweat run down her face. Her breathing grows heavier, but she grits her teeth and keeps pulling weeds, experiencing the physical demands of farm work.\n\nShot 4 [14.5-18.0 seconds]: A close-up and reaction shot. A city girl struggles to pull up a dense clump of weeds. As the soil lifts, a small green, many-legged insect wriggles out. Startled, she drops the weeds and falls backward onto the muddy ground. At [15.0-17.0 seconds], she cries out, following the voice table below. Emotion: onscreen, startled and screaming. She draws her muddy arms close to her chest and trembles, revealing her inexperience and fear.\n\nShot 5 [18.0-25.0 seconds]: A two-person over-the-shoulder shot and a wide shot. Hearing the scream, A kind stops working and stands up with concern. Sitting in the mud, A city girl sees A kind's worried expression and takes several deep breaths. She presses her lips together, steadies herself, moves her boot away from the insect, and crouches beside the vegetable row again. She reaches out with muddy hands and pulls another weed. A kind watches with relief and approval as the morning light casts their shadows across the field.\n\nDIALOGUE AND SOUND\n- 2-4 seconds | A kind | Onscreen dialogue with lip movement, using the voice in Audio 1: \"Stay home and rest today.\"\n- 5-7 seconds | A city girl | Onscreen dialogue with lip movement, using the voice in Audio 2: \"No, I'm coming with you!\"\n- 15-17 seconds | A city girl | Onscreen dialogue with lip movement, using the voice in Audio 2: \"Ah! A bug!\"\nPerform the intended meaning naturally. Small changes to pauses and interjections are allowed, but do not change the speaker, facts, relationships, delivery mode, or event outcome. Voice-over and inner monologue must not be assigned to visible characters or produce incorrect lip movement.\n\nGENERATION REQUIREMENTS\nBegin immediately with the opening action. Complete every action and reaction in chronological order. Each cut continues the same event; do not replay completed actions or introduce new characters, settings, or outcomes. A character's appearance changes only through an explicit action, and an ending state must not appear early. Apart from explicitly requested on-screen text, do not generate dialogue subtitles, title cards, explanatory text, interface stickers, or watermarks.\n\nHARD PREVIOUS-QC CORRECTION - mandatory in every shot:\nContinuity breach in Video 2: Laura's outfit changes abruptly from rural vest/apron (Video 1) to a modern beige jumpsuit (Video 2) without a visible transition or explanation, violating the 'no sudden transformation' rule.\nContinuity breach in Video 2: Chloe's clothing continuity is inconsistent; she starts wearing a grey work jacket, but in later shots of the same scene (e.g., reacting to the bug), she is suddenly back in her blue denim jacket.\nObject state = 0.50, below 0.55. Boundary motion = 0.40, below 0.50.\nVisual judge summary: Laura prepares for farm work in the early morning and suggests that Chloe rest. Chloe insists on accompanying her. While copying Laura's weeding, Chloe screams after seeing an insect, but overcomes her fear and remains in the field. The video presents the story turn and character interaction, but the second segment has serious clothing-continuity errors: Laura's and Chloe's clothes change without explanation across shots, disrupting visual narrative continuity.\nTreat this correction as a visual hard constraint even if a reference image is ambiguous.\n\nReference image 6 is an abstract opening layout guide. Use only its room topology, entrances, fixed landmarks, initial positions, facing and distances. Identity, faces, clothes, materials and real environment appearance come from the preceding canonical images. Render live-action cinematography; never show colored pillars, gray boxes, diagram colors, labels, or the overhead preview camera. This layout constrains only the first instant of the first shot; follow the camera script for all subsequent action and shots.\nColor identity legend: #4069B8 block = person in reference image 1; #B840AE block = person in reference image 4.\n",
+  "displayed_prompt_is_translation": true
+}

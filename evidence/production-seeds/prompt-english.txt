@@ -1,0 +1,50 @@
+B04 Episode 2. 25 seconds. 16:9. Live-action short drama with continuous multi-shot storytelling.
+
+REFERENCE IMAGES
+- Image 1: opening appearance, A city girl; clothing: casual city clothes.
+- Image 2: target ending appearance of the same person, effective only after the action is completed; A city girl; clothing: work clothes.
+- Image 3: agricultural fields under the harsh sun.
+- Image 4: opening appearance, A kind; clothing: simple rural clothes.
+- Image 5: target ending appearance of the same person, effective only after the action is completed; A kind; clothing: work clothes.
+The first five approved asset images are multi-view sheets of individual assets. They constrain character appearance, clothing, prop structure, and scene layout. Do not render sheet borders, cell labels, white backgrounds, or repeated people in the video.
+
+Source-grounded cast and location continuity: preserve the source characters, approved identities, language, stated location and period. Keep architecture, clothing, signage and props consistent with that setting. Do not infer ethnicity from the language or replace the source setting; avoid stereotypes.
+
+STORY CONTINUITY
+- Previous event: Chloe admitted that she has always missed the mother she has never met.
+- Opening action: Laura is packing tools for the fields the next morning.
+- Events in this segment: early the next morning, Laura prepares for the fields and tells Chloe to rest. Chloe insists on coming. In the fields, Chloe copies Laura pulling weeds, screams at an insect, but bravely stays instead of running away.
+- Ending state: Chloe does not run away; she chooses to remain in the field.
+- Connection to the next segment: Chloe stays in the field despite the bug.
+
+SHOTS, PERFORMANCE, AND ACTION
+The video contains exactly 5 shots.
+
+Shot 1 [0.0-4.5 seconds]: At the edge of a field in the early morning, soft, cool light falls on the soil and vegetable rows, with a light mist in the air. A kind wears plain, practical farm work clothes and packs tools beside a muddy path. A city girl stands nearby, already wearing durable dark trousers and a work shirt with rolled-up sleeves, with slightly muddy boots. A kind stops packing, turns to A city girl with a caring expression, and speaks gently at [2.0-4.0 seconds], following the voice table below. Emotion: onscreen, caring.
+
+Shot 2 [4.5-8.0 seconds]: A frontal medium shot frames A city girl standing upright in work clothes. She meets A kind's gaze with determination and stubborn resolve. At [5.0-7.0 seconds], she answers firmly and loudly, following the voice table below. Emotion: onscreen, stubborn and insistent. She then tightens her rolled-up sleeves and steps directly into the soil between the vegetable rows, showing through her actions that she intends to accompany A kind and share the work.
+
+Shot 3 [8.0-14.5 seconds]: A tracking medium shot follows the vegetable rows as the morning sun rises. A city girl, wearing work trousers, crouches awkwardly beside a soil ridge. She puts both hands into the damp, soft earth and tries to copy the experienced A kind working beside her, pulling stubborn weeds out by hand. Her hands become covered in thick mud, and fine beads of sweat run down her face. Her breathing grows heavier, but she grits her teeth and keeps pulling weeds, experiencing the physical demands of farm work.
+
+Shot 4 [14.5-18.0 seconds]: A close-up and reaction shot. A city girl struggles to pull up a dense clump of weeds. As the soil lifts, a small green, many-legged insect wriggles out. Startled, she drops the weeds and falls backward onto the muddy ground. At [15.0-17.0 seconds], she cries out, following the voice table below. Emotion: onscreen, startled and screaming. She draws her muddy arms close to her chest and trembles, revealing her inexperience and fear.
+
+Shot 5 [18.0-25.0 seconds]: A two-person over-the-shoulder shot and a wide shot. Hearing the scream, A kind stops working and stands up with concern. Sitting in the mud, A city girl sees A kind's worried expression and takes several deep breaths. She presses her lips together, steadies herself, moves her boot away from the insect, and crouches beside the vegetable row again. She reaches out with muddy hands and pulls another weed. A kind watches with relief and approval as the morning light casts their shadows across the field.
+
+DIALOGUE AND SOUND
+- 2-4 seconds | A kind | Onscreen dialogue with lip movement, using the voice in Audio 1: "Stay home and rest today."
+- 5-7 seconds | A city girl | Onscreen dialogue with lip movement, using the voice in Audio 2: "No, I'm coming with you!"
+- 15-17 seconds | A city girl | Onscreen dialogue with lip movement, using the voice in Audio 2: "Ah! A bug!"
+Perform the intended meaning naturally. Small changes to pauses and interjections are allowed, but do not change the speaker, facts, relationships, delivery mode, or event outcome. Voice-over and inner monologue must not be assigned to visible characters or produce incorrect lip movement.
+
+GENERATION REQUIREMENTS
+Begin immediately with the opening action. Complete every action and reaction in chronological order. Each cut continues the same event; do not replay completed actions or introduce new characters, settings, or outcomes. A character's appearance changes only through an explicit action, and an ending state must not appear early. Apart from explicitly requested on-screen text, do not generate dialogue subtitles, title cards, explanatory text, interface stickers, or watermarks.
+
+HARD PREVIOUS-QC CORRECTION - mandatory in every shot:
+Continuity breach in Video 2: Laura's outfit changes abruptly from rural vest/apron (Video 1) to a modern beige jumpsuit (Video 2) without a visible transition or explanation, violating the 'no sudden transformation' rule.
+Continuity breach in Video 2: Chloe's clothing continuity is inconsistent; she starts wearing a grey work jacket, but in later shots of the same scene (e.g., reacting to the bug), she is suddenly back in her blue denim jacket.
+Object state = 0.50, below 0.55. Boundary motion = 0.40, below 0.50.
+Visual judge summary: Laura prepares for farm work in the early morning and suggests that Chloe rest. Chloe insists on accompanying her. While copying Laura's weeding, Chloe screams after seeing an insect, but overcomes her fear and remains in the field. The video presents the story turn and character interaction, but the second segment has serious clothing-continuity errors: Laura's and Chloe's clothes change without explanation across shots, disrupting visual narrative continuity.
+Treat this correction as a visual hard constraint even if a reference image is ambiguous.
+
+Reference image 6 is an abstract opening layout guide. Use only its room topology, entrances, fixed landmarks, initial positions, facing and distances. Identity, faces, clothes, materials and real environment appearance come from the preceding canonical images. Render live-action cinematography; never show colored pillars, gray boxes, diagram colors, labels, or the overhead preview camera. This layout constrains only the first instant of the first shot; follow the camera script for all subsequent action and shots.
+Color identity legend: #4069B8 block = person in reference image 1; #B840AE block = person in reference image 4.

@@ -1,0 +1,354 @@
+{
+  "page": "DramaR² — Rebuttal Demos",
+  "prepared_date": "2026-11-15",
+  "file_count": 69,
+  "video_count": 19,
+  "total_asset_bytes": 783482214,
+  "files": [
+    {
+      "path": "app.js",
+      "bytes": 5473,
+      "sha256": "e61cdeb28f1af4a0415bc06adf986b39de6cf8b347252191861f459ec20dae31"
+    },
+    {
+      "path": "assets/comparison-dramar2.jpg",
+      "bytes": 49596,
+      "sha256": "7414a5410f24535c9acfc06b9f984e20eeb4b46b3b067412a7112b446b075477"
+    },
+    {
+      "path": "assets/comparison-movieagent.jpg",
+      "bytes": 53042,
+      "sha256": "6e73211e69b56eaaf51f6e40c07a33f4b7dac2f1fd1ae281211b8b5c482c69fd"
+    },
+    {
+      "path": "assets/comparison-vgot.jpg",
+      "bytes": 51777,
+      "sha256": "17b9f6a4b78d58613a4ee19d74133155dd153c865bca04994231eaa9f0946434"
+    },
+    {
+      "path": "assets/comparison-videoclaw.jpg",
+      "bytes": 63591,
+      "sha256": "97e10203b87bb38c1bf098746eae448c9f0cbf9b291ee21e233e3e053f5a65cc"
+    },
+    {
+      "path": "assets/comparison-vimax.jpg",
+      "bytes": 30730,
+      "sha256": "6a5cca14ad7d528773d904ef9f500fbbb2578b41193bada4168f65b1fcd826fb"
+    },
+    {
+      "path": "assets/favicon.svg",
+      "bytes": 215,
+      "sha256": "1fb2bdfe1c9a10f0a6a59a55bbf5917e717dec1204681159fb22a4b008037eaf"
+    },
+    {
+      "path": "assets/rsi-round-0-episode-1.jpg",
+      "bytes": 75117,
+      "sha256": "12d5e6a2ebf22de450ad4384f9aa1debcf6690c9ba93a8c27a63eeba9108d7ab"
+    },
+    {
+      "path": "assets/rsi-round-0-episode-2.jpg",
+      "bytes": 110247,
+      "sha256": "c47d22041567e6600d2f06ef44e7e014bc6989bc69bcf30529884c332fc91d5b"
+    },
+    {
+      "path": "assets/rsi-round-12-episode-1.jpg",
+      "bytes": 98969,
+      "sha256": "31952d0477ad0e37aa726066d88d441e693f202fcdca28aaf337ad1d3ce16780"
+    },
+    {
+      "path": "assets/rsi-round-12-episode-2.jpg",
+      "bytes": 99169,
+      "sha256": "a230b6f79d89a5d1b5478850150144795ae5e93b2068397869f70dcc1d75565f"
+    },
+    {
+      "path": "assets/rsi-round-6-episode-1.jpg",
+      "bytes": 56647,
+      "sha256": "5b173c6aedde7b3c42d06b8cccda0e8e8a1b479e590728c9146984769b3f8d8c"
+    },
+    {
+      "path": "assets/rsi-round-6-episode-2.jpg",
+      "bytes": 99682,
+      "sha256": "af1b4b9a780bb9a64b703c42dfde8a5b54b054f6f3be314a068c11b852b21cb2"
+    },
+    {
+      "path": "assets/rsi-round-9-episode-1.jpg",
+      "bytes": 84617,
+      "sha256": "477b071f08b6dea027ad7d5a6e14e37dc397c86b816626fc988b447b4cc1879a"
+    },
+    {
+      "path": "assets/rsi-round-9-episode-2.jpg",
+      "bytes": 75451,
+      "sha256": "92b5f3d88028ef22a6ed49e97f46dcd80c002b6b3d61153cdfd96a34a1d096a8"
+    },
+    {
+      "path": "evidence/first-drop/beat-1.jpg",
+      "bytes": 184430,
+      "sha256": "6ecb2b051df51861e2f953cedd1eff12a54670ea28139bbc6ecfb4617f3ad05a"
+    },
+    {
+      "path": "evidence/first-drop/beat-2.jpg",
+      "bytes": 104877,
+      "sha256": "12c6f9360e319c4b1a669095f28f174dc4f356286451344e8db322e4ccc8ee55"
+    },
+    {
+      "path": "evidence/first-drop/beat-3.jpg",
+      "bytes": 153210,
+      "sha256": "46a0ad6da6dd6b59f0249e210be1c11da948a21f309ee9dacbe66fa7d8f72bea"
+    },
+    {
+      "path": "evidence/first-drop/beat-4.jpg",
+      "bytes": 174753,
+      "sha256": "9491b342ed9b57b24be995a7c3f42137d2060654fcc16c07e3ff76d6da2a4b40"
+    },
+    {
+      "path": "evidence/first-drop/beat-5.jpg",
+      "bytes": 135872,
+      "sha256": "89478b4528ff460e69199a70cdbc5ca04af8c57fc4d6bee88d29107ef5ded890"
+    },
+    {
+      "path": "evidence/first-drop/beat-6.jpg",
+      "bytes": 127991,
+      "sha256": "cc01a9577bc0d2577d8eea3d16feb0386b608d39e0cb294eb20887cec1b5b702"
+    },
+    {
+      "path": "evidence/first-drop/beat-7.jpg",
+      "bytes": 174727,
+      "sha256": "631b030baaf9c7db5f64b7044cc48c6f1594b85edabce5e143a6ecae049b59f1"
+    },
+    {
+      "path": "evidence/first-drop/final-poster.jpg",
+      "bytes": 166539,
+      "sha256": "7ae9312fd12bdad05a4e122bd9b2d0d289a84001b534f899a2fce5ef6871ac76"
+    },
+    {
+      "path": "evidence/first-drop/garden.jpg",
+      "bytes": 182481,
+      "sha256": "d35446866b1a2f399997f89d65a83e00324cd5d6f1b96c6cabad1edf46faeb85"
+    },
+    {
+      "path": "evidence/first-drop/initial.jpg",
+      "bytes": 116771,
+      "sha256": "eabc1ae06762f4cc9f9f833ad530400f8f2926776f2c7f398260961e9ed3cbd0"
+    },
+    {
+      "path": "evidence/first-drop/initial.mp4",
+      "bytes": 39316682,
+      "sha256": "bfd95fffd407cdbc478c529654ff406d43bafa7c846e867492cf1d5e174ec994"
+    },
+    {
+      "path": "evidence/first-drop/nia.jpg",
+      "bytes": 66641,
+      "sha256": "26dd6bae5e842c0aace23b61aeb69f1068fc98ba57c19b19d287c53fea3d0cd8"
+    },
+    {
+      "path": "evidence/first-drop/ori.jpg",
+      "bytes": 70309,
+      "sha256": "cd1318ef0bf397982aa5ee2a6f6ba63fb2ba06493f1bf1bf8c3083e55b237e30"
+    },
+    {
+      "path": "evidence/first-drop/rainseed.jpg",
+      "bytes": 50261,
+      "sha256": "32dcfc083d55b4a132f8e4df1df272bf59def864c3d4672c42343afa1a497437"
+    },
+    {
+      "path": "evidence/first-drop/repaired.jpg",
+      "bytes": 113757,
+      "sha256": "558f443a568904c0dc9c9a6254a8b9488c027455b62d4f8f5959b590b32ff946"
+    },
+    {
+      "path": "evidence/first-drop/repaired.mp4",
+      "bytes": 34790963,
+      "sha256": "d9ec5cccdded672cf1ecd2fa8c2dbd38422890210b22a84b869694f55a3a5dc4"
+    },
+    {
+      "path": "evidence/first-drop/sol.jpg",
+      "bytes": 71349,
+      "sha256": "6867ec1528c48490e1b18b9bf66aa9a11c926f25fe493a32587eac992860d514"
+    },
+    {
+      "path": "evidence/first-drop/spatial-layout.png",
+      "bytes": 35586,
+      "sha256": "843a5ea1b78e6c8df6a7fa10b714a8e4d3f516a4fe6a2dd8d364510e7097c2c4"
+    },
+    {
+      "path": "evidence/first-drop/subtitle-frame.jpg",
+      "bytes": 152770,
+      "sha256": "5806f1cd3f648ab6ff65c29ab8da94152f5c559bdacadf7caf8f7ae1149ddb34"
+    },
+    {
+      "path": "evidence/production-seeds/generation-settings.json",
+      "bytes": 10740,
+      "sha256": "2f1fbe79d2959a19e810575136c373d036c6eb2fd5bc43eb38a4ad9999ce4c79"
+    },
+    {
+      "path": "evidence/production-seeds/prompt-english.txt",
+      "bytes": 7305,
+      "sha256": "8127f602d9a756c8fffd9585ee88506301ca39fc89295de90b5266bb38d821b9"
+    },
+    {
+      "path": "evidence/production-seeds/reference-1.jpg",
+      "bytes": 35988,
+      "sha256": "f066f3a0fd303fc2bc10a1494e31218525da55da9ae22d8ce221fea709efb6e1"
+    },
+    {
+      "path": "evidence/production-seeds/reference-2.jpg",
+      "bytes": 36454,
+      "sha256": "26b897d20d509d6c393c22bac2231a84e224d04aede3517a31c8ee76c2250148"
+    },
+    {
+      "path": "evidence/production-seeds/reference-3.jpg",
+      "bytes": 177299,
+      "sha256": "96dc13b73b2fcdb714b240e5e2bc4c97e9783cec7c628959fee5f1749581b720"
+    },
+    {
+      "path": "evidence/production-seeds/reference-4.jpg",
+      "bytes": 36614,
+      "sha256": "b86a2d9a0eea7c62becca1c6f4a54b595ec4a8595f1172315c7798350a1baf83"
+    },
+    {
+      "path": "evidence/production-seeds/reference-5.jpg",
+      "bytes": 37404,
+      "sha256": "ba939464c70cbe5a62338e718ad292310c6f57265773fb2c12d9ee2c4f279ec8"
+    },
+    {
+      "path": "evidence/production-seeds/reference-6.png",
+      "bytes": 38475,
+      "sha256": "febfbf18532af0903f0e73cd2a3ec4e6595ba3bf57cc838f74b33c706bc257a1"
+    },
+    {
+      "path": "evidence/production-seeds/reference-7.wav",
+      "bytes": 144078,
+      "sha256": "5d20c7e73270f609d59b7d24e2656a893b2c6165a31dc8f89c604dd8bfe53e6e"
+    },
+    {
+      "path": "evidence/production-seeds/reference-8.wav",
+      "bytes": 144078,
+      "sha256": "59ca9e71057a223af07f4b2b01bef62892b0309e832fef3bee8eb78214bfc97e"
+    },
+    {
+      "path": "evidence/production-seeds/sample-1.jpg",
+      "bytes": 141945,
+      "sha256": "0297ada73ffcf4715454437c277bef491ee5d546b93779f9e4bf34ec16460ecd"
+    },
+    {
+      "path": "evidence/production-seeds/sample-1.mp4",
+      "bytes": 31841501,
+      "sha256": "ca5c30c1ff7e1695519925a8d3ad0b335f2176ff29ab8567555c8ad7a645e5b0"
+    },
+    {
+      "path": "evidence/production-seeds/sample-2.jpg",
+      "bytes": 145346,
+      "sha256": "3baa21e378ac3ee48e16c7f0741677ad29be11b00341bab15092f0430e03a6fc"
+    },
+    {
+      "path": "evidence/production-seeds/sample-2.mp4",
+      "bytes": 31860731,
+      "sha256": "170f41ee8642e684a7f31cb6ef1c8155509c824f547725ae0dcd13e0197c8e23"
+    },
+    {
+      "path": "evidence/production-seeds/sample-3.jpg",
+      "bytes": 142485,
+      "sha256": "38161fb566f3d183ff5f6abdcfeaf9e9dde61db5f61b3efb76c05f340c907a3e"
+    },
+    {
+      "path": "evidence/production-seeds/sample-3.mp4",
+      "bytes": 31828446,
+      "sha256": "39c51013555c34e05e739995c51085e3ed006916a4be8584c4ab404f3750ee18"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25830,
+      "sha256": "c6ed23b5230bfc53f388c2badb27f4fb3a3ca99dc96a958c2759311abd4efe6a"
+    },
+    {
+      "path": "media.js",
+      "bytes": 3464,
+      "sha256": "14fa8b2f25b964a3dab0304eb9d154421846cf645af14031152aecdeef1353bf"
+    },
+    {
+      "path": "media.json",
+      "bytes": 4505,
+      "sha256": "8a25bb8fdc122f08415341cb089a80f146a08a34e387cbc8fc55cbdb373b8395"
+    },
+    {
+      "path": "robots.txt",
+      "bytes": 26,
+      "sha256": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1"
+    },
+    {
+      "path": "style.css",
+      "bytes": 11238,
+      "sha256": "3f7e4e29e6d7f29d2a0ee2c54c696467785d5e469b9c370a56e6279aff2bd875"
+    },
+    {
+      "path": "videos/comparison-dramar2.mp4",
+      "bytes": 23394247,
+      "sha256": "85538e1ff6bd38e07374ab14bdb9c1633f2d4fae15e2a65f7b4df77c436705fe"
+    },
+    {
+      "path": "videos/comparison-movieagent.mp4",
+      "bytes": 23963161,
+      "sha256": "617de75fc0b8ea5a63fac69664ec0ea237908c3b324e0a65c5ee875920d855db"
+    },
+    {
+      "path": "videos/comparison-vgot.mp4",
+      "bytes": 11287086,
+      "sha256": "de9928246162189eeff9620c1f3396ea078648931acf4cff56e4cb15da188cf8"
+    },
+    {
+      "path": "videos/comparison-videoclaw.mp4",
+      "bytes": 31434099,
+      "sha256": "3f552677f90262f2c4c98bb085293d856d164f463f226a40c2e4cc1e4261a43c"
+    },
+    {
+      "path": "videos/comparison-vimax.mp4",
+      "bytes": 17863269,
+      "sha256": "50bea2c861ed3ee2cc56c87b13ef1ac6c22a3f713a32ab0b70ce01e12020694e"
+    },
+    {
+      "path": "videos/rsi-round-0-episode-1.mp4",
+      "bytes": 48857815,
+      "sha256": "f81179104ee1310ba0462ddf65c9e2d5f818281efc0005e6a8bd56a5710b3b98"
+    },
+    {
+      "path": "videos/rsi-round-0-episode-2.mp4",
+      "bytes": 71222842,
+      "sha256": "e362bbebbba020757d01dc04f775723ee5cdb011bdd2cec31799fcc2961430b5"
+    },
+    {
+      "path": "videos/rsi-round-12-episode-1.mp4",
+      "bytes": 47198870,
+      "sha256": "c175dde0cbb1d724ca61762b55a8a2960c5b623fd5501a5ef1e1f3f5368219b7"
+    },
+    {
+      "path": "videos/rsi-round-12-episode-2.mp4",
+      "bytes": 61176709,
+      "sha256": "0c228e5d1b4cc32f746aa1ad90ca76e2d681273c022d1a14df7e999a916c6724"
+    },
+    {
+      "path": "videos/rsi-round-6-episode-1.mp4",
+      "bytes": 32774777,
+      "sha256": "ab762b5e07fe96b255892fad870901765a9b809e31c18d7528d3f4f7242c16d3"
+    },
+    {
+      "path": "videos/rsi-round-6-episode-2.mp4",
+      "bytes": 34038055,
+      "sha256": "5c0716f909cc609be83ded82da48f63294d40d595e66a7e76519177b767fe4c1"
+    },
+    {
+      "path": "videos/rsi-round-9-episode-1.mp4",
+      "bytes": 45386215,
+      "sha256": "9dce62ad1ccd002670eb5d2314c8f2983f69638f8f9fd3b1fa30f25039733d10"
+    },
+    {
+      "path": "videos/rsi-round-9-episode-2.mp4",
+      "bytes": 73101459,
+      "sha256": "2af9fa5f3c7961667e8f9108056cdac9d0e92ec451be739cc909905547e3c7e0"
+    },
+    {
+      "path": "videos/worked-example-first-drop.mp4",
+      "bytes": 87965366,
+      "sha256": "e9109fa189634009c101ba67b7206a34c4899ad4bd25a69d9e4aa8cfbfb76a66"
+    }
+  ]
+}
